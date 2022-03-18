@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_location.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\menu_sign_out.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\menu\\sign_out.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_restaurants.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\layout\\activity_restaurants.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\layout_restaurants_item.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\layout\\restaurants_item.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_shape.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\drawable\\categories_shape.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_categories.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\layout\\activity_categories.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mon_resto.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mon_resto.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_shape.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\drawable\\custom_shape.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable_asiatique.jpg.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\drawable\\asiatique.jpg"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_location.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_restaurant.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\layout\\activity_restaurant.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_location.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mon_resto.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mon_resto.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_item.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fast_food.jpg.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\drawable\\fast_food.jpg"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mon_resto.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mon_resto.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable_italien.jpg.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\drawable\\italien.jpg"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable_restaurants_shape.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\drawable\\restaurants_shape.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mon_resto.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mon_resto.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\layout_categories_item.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\layout\\categories_item.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_location.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marocain.jpg.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\drawable\\marocain.jpg"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mon_resto.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mon_resto.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mon_resto.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mon_resto.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tacos.jpg.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\drawable\\tacos.jpg"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mon_resto.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mon_resto.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_location.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_location.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_location.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MonResto - Copie\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\MonResto - Copie\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pizza.jpg.flat",
+        "source": "D:\\MonResto - Copie\\app\\src\\main\\res\\drawable\\pizza.jpg"
+    }
+]

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MonResto</string>
+    <string name="firstTextView">Entrer votre nom d\'utilisateur et votre mot de passe</string>
+    <string name="username_hint">par ex : Hamza</string>
+    <string name="password_hint">par ex : Hamza123</string>
+    <string name="connecter">Connecter</string>
+    <string name="remeber_me">Rester connecté</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
